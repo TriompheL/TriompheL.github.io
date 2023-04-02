@@ -11,6 +11,9 @@ copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0
 # 主题选择
 theme = "meme"
 
+#设置发布草稿
+draft = false
+
 # `hugo new` 新建文章自动打开的文本编辑器
 newContentEditor = ""
 
@@ -828,7 +831,7 @@ uglyURLs = false
     # 文章目录
 
     # 是否开启（全局设置）
-    enableTOC = false
+    enableTOC = true
     # 说明：文章的 Front Matter 中的 `toc`
     #      的优先级高于此处
 
