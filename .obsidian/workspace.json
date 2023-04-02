@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "460e987df3d1d2eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "85c42b010b092a49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dd04345a5065c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/hello-world.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "52f64e2bf776e0b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0111743f0ac63c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/hello-world.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24705b476ae26c83",
+    "type": "split",
+    "children": [
+      {
+        "id": "425e824e571718d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba84ecbbbb05b3b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5caa798dc715a74a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "850b75a2134c15a5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1d8e9b977565c9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f240fff7fb0c2834",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed3a88198cd59604",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/hello-world.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6dc06ed9dd410406",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/hello-world.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44915fe87781583e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9cd494a829048ae7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/hello-world.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "5dd04345a5065c64",
+  "lastOpenFiles": [
+    "static/img/Pasted image 20230402154518.png",
+    "2023-04-02.md",
+    "Untitled.canvas",
+    "content/posts/hello-world.md",
+    "static/img",
+    "content/about/_index.md",
+    "Pasted image 20230402145210.png",
+    "Pasted image 20230402145146.png"
+  ]
+}
