@@ -2,7 +2,7 @@
 # 站点配置
 
 baseURL = "https://TriompheL.github.io/"
-title = "test1"
+title = "Tri0mphe"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
