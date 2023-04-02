@@ -11,8 +11,12 @@
             "id": "d0111743f0ac63c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/hello-world.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/hello-world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/hello-world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/posts/hello-world.md"
+              }
             }
           }
         ],
@@ -139,11 +147,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ba84ecbbbb05b3b6",
+  "active": "d0111743f0ac63c8",
   "lastOpenFiles": [
+    "static/img/Pasted image 20230402182631.png",
+    "static/img/Pasted image 20230402173842.png",
     "static/img/Pasted image 20230402181938.png",
     "content/posts/hello-world.md",
-    "static/img/Pasted image 20230402173842.png",
     "static/img/Pasted image 20230402155307.png",
     "content/posts/2023-04-02-16-02-39.png",
     "static/img/Pasted image 20230402155131.png",

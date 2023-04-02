@@ -8,6 +8,8 @@ print(helloworld)
 python
 ```
 
+![](static/img/Pasted%20image%2020230402182631.png)
+
 ![](../../static/img/Pasted%20image%2020230402181938.png)
 测试图片可用性
 # 第一章

@@ -3,5 +3,5 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "static/img",
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "absolute"
 }
