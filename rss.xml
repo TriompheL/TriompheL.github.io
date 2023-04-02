@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Tri0mphe</title><link>https://TriompheL.github.io/</link><description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description><generator>Hugo 0.111.3 https://gohugo.io/</generator><language>zh-CN</language><managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor><webMaster>reuixiy@gmail.com (reuixiy)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><lastBuildDate>Sun, 02 Apr 2023 05:54:49 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://TriompheL.github.io/rss.xml"/><item><title>Hello World</title><link>https://TriompheL.github.io/posts/hello-world/</link><guid isPermaLink="true">https://TriompheL.github.io/posts/hello-world/</guid><pubDate>Sun, 02 Apr 2023 13:16:09 +0800</pubDate><author>reuixiy@gmail.com (reuixiy)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;p>this is test&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Tri0mphe</title><link>https://TriompheL.github.io/</link><description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description><generator>Hugo 0.111.3 https://gohugo.io/</generator><language>zh-CN</language><managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor><webMaster>reuixiy@gmail.com (reuixiy)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><lastBuildDate>Sun, 02 Apr 2023 07:46:34 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://TriompheL.github.io/rss.xml"/><item><title>Hello World</title><link>https://TriompheL.github.io/posts/hello-world/</link><guid isPermaLink="true">https://TriompheL.github.io/posts/hello-world/</guid><pubDate>Sun, 02 Apr 2023 13:16:09 +0800</pubDate><author>reuixiy@gmail.com (reuixiy)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;p>this is test232323&lt;/p>
+&lt;p>测试图片可用性
+![[Pasted image 20230402154518.png]]&lt;/p>
+&lt;h1 id="第一章">第一章&lt;/h1>
+&lt;p>ddddddddddddddd
+dsfsf
+ffffffffffffffffsdf&lt;/p>
+&lt;h2 id="test111">test111&lt;/h2>
+&lt;h2 id="第二">第二&lt;/h2>
+&lt;p>231313&lt;/p>
+&lt;h1 id="第三张杰">第三张杰&lt;/h1>
+&lt;pre tabindex="0">&lt;code>hello world
+print(heel owreee)
+&lt;/code>&lt;/pre>&lt;blockquote>
+&lt;p>sdfsfsf&lt;/p>
+&lt;/blockquote></description></item></channel></rss>
