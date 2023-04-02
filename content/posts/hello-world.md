@@ -4,10 +4,9 @@ date: 2023-04-02T13:16:09+08:00
 draft: false
 ---
 
-this is test232323
-
 测试图片可用性
-![[Pasted image 20230402154518.png]]
+![](Pasted%20image%2020230402155307.png)
+
 # 第一章
 
 ddddddddddddddd
