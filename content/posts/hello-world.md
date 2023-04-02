@@ -3,10 +3,13 @@ title: "Hello World"
 date: 2023-04-02T13:16:09+08:00
 draft: false
 ---
+```python
+print(helloworld)
+python
+```
 
+![](../../static/img/Pasted%20image%2020230402181938.png)
 测试图片可用性
-![](Pasted%20image%2020230402155307.png)
-
 # 第一章
 
 ddddddddddddddd
